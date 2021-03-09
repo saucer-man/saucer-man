@@ -2,4 +2,4 @@
 
 - ⚡ golang/python
 - ✍️ [Blogger](https://saucer-man.com/)
-- 🔭 hacker for fun
+- 🔭 hacker && programmer
