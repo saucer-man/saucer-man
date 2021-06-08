@@ -1,5 +1,5 @@
 ### Hi, I am saucer-man
 
 - ⚡ golang/python
-- ✍️ [Blogger](https://saucer-man.com/)
 - 🔭 hacker && programmer
+- ✍️ [this is my blogger](https://saucer-man.com/)
