@@ -4,6 +4,5 @@
 - 🔭 hacker && programmer
 - ✍️ [this is my blogger](https://saucer-man.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saucer-man&count_private=true&show_icons=true&theme=dark)
+<img src="https://github.com/saucer-man/saucer-man/blob/main/image.png" width="400px">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saucer-man&hide=c)
