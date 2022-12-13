@@ -1,6 +1,6 @@
 ### Hi, I am saucer-man
 
-- ⚡ golang/python
+- ⚡ golang/python/java
 - 🔭 hacker && programmer
 - ✍️ [this is my blogger](https://saucer-man.com/)
 
