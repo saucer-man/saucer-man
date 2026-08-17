@@ -1,7 +1,6 @@
 ### Hi, I am yanq
 
-- ⚡ golang/python/java
-- 🔭 hacker && programmer
+- 🔭 hacker && programmer && AI
 - ✍️ [this is my blog](https://saucer-man.com/)
 
 
